@@ -7,7 +7,6 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   const showAlert = () => {
     console.log("whythis is not covered in sonarqube");
-    // console.log("whythis is not covered in sonarqube");
     
     const v = "dsafssa";
     alert(v);
